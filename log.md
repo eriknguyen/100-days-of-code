@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: Jan 03, 2017 
+### Day 1: Jan 03, 2017 
 ##### 
 
 **Today's Progress**: Started github page with a basic single-page portfolio
@@ -9,22 +9,11 @@
 
 **Link to work:** [Erik's Github Page](http://eriknguyen.github.io/)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: Jan 04, 2017
+##### 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Fixed scrolling bug on Safari. But failed to fix the same one on iOS Chrome.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I think I've spent too much time trying non-sense options without digging deep to the problem. A failed day or a tried-hard day.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) to work**: [Erik's Github Page](http://eriknguyen.github.io/)
