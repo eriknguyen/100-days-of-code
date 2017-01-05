@@ -17,3 +17,12 @@
 **Thoughts**: I think I've spent too much time trying non-sense options without digging deep to the problem. A failed day or a tried-hard day.
 
 **Link(s) to work**: [Erik's Github Page](http://eriknguyen.github.io/)
+
+### Day 3: Jan 05, 2017
+##### 
+
+**Today's Progress**: Joined Javascript30 Challenge to refresh vanilla JS foundation. Finished day 1.
+
+**Thoughts**: Simple exercise to start new challenge and to relax but still building coding habit. Practised some ES6, browser events and sound element.
+
+**Link(s) to work**: [JavaScript30#1](https://github.com/eriknguyen/javascript30/tree/master/exercises/01_drumkit)
