@@ -23,6 +23,15 @@
 
 **Today's Progress**: Joined Javascript30 Challenge to refresh vanilla JS foundation. Finished day 1.
 
-**Thoughts**: Simple exercise to start new challenge and to relax but still building coding habit. Practised some ES6, browser events and sound element.
+**Thoughts**: Simple exercise to start new challenge and to relax but still building coding habit. Practised some ES6 (back text, template string, arrow function), browser events and sound element.
 
 **Link(s) to work**: [JavaScript30#1](https://github.com/eriknguyen/javascript30/tree/master/exercises/01_drumkit)
+
+### Day 4: Jan 06, 2017
+##### 
+
+**Today's Progress**: Completed Javascript30 Day 2: build an analog clock.
+
+**Thoughts**: #TGIF. Another simple exercise to relax after a busy week and busy Friday. Used: JS Date api, ES6 template string.
+
+**Link(s) to work**: [JavaScript30#1](https://github.com/eriknguyen/javascript30/tree/master/exercises/02_clock)
