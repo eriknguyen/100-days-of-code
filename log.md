@@ -35,3 +35,13 @@
 **Thoughts**: #TGIF. Another simple exercise to relax after a busy week and busy Friday. Used: JS Date api, ES6 template string.
 
 **Link(s) to work**: [JavaScript30#1](https://github.com/eriknguyen/javascript30/tree/master/exercises/02_clock)
+
+
+### Day 5: Jan 08, 2017
+##### 
+
+**Today's Progress**: Completed Javascript30 Day 3: Practise CSS variables and 
+
+**Thoughts**: Some useful stuffs: css variables, css ":root", dataset for html data attributes (with "data-" prefix) and a badass color #BADA55 LOL
+
+**Link(s) to work**: [JavaScript30#1](https://github.com/eriknguyen/javascript30/tree/master/exercises/)
