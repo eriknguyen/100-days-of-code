@@ -45,3 +45,17 @@
 **Thoughts**: Some useful stuffs: css variables, css ":root", dataset for html data attributes (with "data-" prefix) and a badass color #BADA55 LOL
 
 **Link(s) to work**: [JavaScript30#1](https://github.com/eriknguyen/javascript30/tree/master/exercises/)
+
+
+### Day 5: Jan 08, 2017
+##### 
+
+**Today's Progress**: Completed Javascript30 Day 4+5: JS Array Cardio + Created Flex Panel Gallery
+
+**Thoughts**: 
+1. JS Array Cardio: Learnt many useful stuffs: filter, map, sort, reduce... I wonder how fast I would implement all my function with these. Don't know why I have always been doing it the long way.
+
+2. Flex Panel Gallery: Used flexbox to build a flex panel gallery. I've never used flexbox before as well and may consider to start playing with it since it's very useful and hopefully it will be fully supported by Edge in near future.
+
+
+**Link(s) to work**: [JavaScript30#1](https://github.com/eriknguyen/javascript30/tree/master/exercises/)
