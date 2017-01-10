@@ -47,7 +47,7 @@
 **Link(s) to work**: [JavaScript30#3](https://github.com/eriknguyen/javascript30/tree/master/exercises/)
 
 
-### Day 5: Jan 09, 2017
+### Day 6: Jan 09, 2017
 ##### 
 
 **Today's Progress**: Completed Javascript30 Day 4+5: JS Array Cardio + Created Flex Panel Gallery
@@ -61,7 +61,7 @@
 **Link(s) to work**: [JavaScript30#45](https://github.com/eriknguyen/javascript30/tree/master/exercises/)
 
 
-### Day 6: Jan 10, 2017
+### Day 7: Jan 10, 2017
 ##### 
 
 **Today's Progress**: Completed Javascript30 Day 6: JS Input Auto Suggestion
