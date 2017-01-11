@@ -70,3 +70,14 @@
 
 
 **Link(s) to work**: [JavaScript30#6](https://github.com/eriknguyen/javascript30/tree/master/exercises/)
+
+
+### Day 8: Jan 11, 2017
+##### 
+
+**Today's Progress**: Completed Javascript30 Day 7+8: JS Array Cardio#2 and HTML5 Canvas
+
+**Thoughts**: Practised some other useful Array methods, I'm gonna need to note it all down and check out more from the MDN, browser compatibility would be the problem of some. For HTML5 Canvas, it's kinda fun exercises while playing around with canvas 2d context, it's relatively easy since I'm working on some WebGL stuffs to build an online interior design tools.
+
+
+**Link(s) to work**: [JavaScript30#7+8](https://github.com/eriknguyen/javascript30/tree/master/exercises/)
