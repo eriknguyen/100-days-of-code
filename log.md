@@ -81,3 +81,16 @@
 
 
 **Link(s) to work**: [JavaScript30#7+8](https://github.com/eriknguyen/javascript30/tree/master/exercises/)
+
+
+### Day 9: Jan 12, 2017
+##### 
+
+**Today's Progress**: Completed Javascript30 Day 9+10: Learnt some cool dev tool tricks and built the shift-holding checkboxes check
+
+**Thoughts**: Yes, those are some very cool dev tools and it will be the start for me to check out more tutorials on utilizing the dev tool that Addy Osmani has tweeted a lots about :D They work so hard to build it and to ease the pain for fellow developers so it would be disrespectful and be the shame for me not to use it the smart way. 
+
+For day 10 of the series, I built the shift-holding check function for a checkboxes list with a slightly different method than what Wes Bos used and it's kinda more ugly though. Btw, there is still a new thing which is a e.shiftKey @@ I've always using e.keyCode === 16 with a keydown event for that simple task. Well....
+
+
+**Link(s) to work**: [JavaScript30#9+10](https://github.com/eriknguyen/javascript30/tree/master/exercises/)
