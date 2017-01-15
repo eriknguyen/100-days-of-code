@@ -94,3 +94,25 @@ For day 10 of the series, I built the shift-holding check function for a checkbo
 
 
 **Link(s) to work**: [JavaScript30#9+10](https://github.com/eriknguyen/javascript30/tree/master/exercises/)
+
+
+### Day 10: Jan 14, 2017
+##### 
+
+**Today's Progress**: Completed Javascript30 Day 11: Build custom video player
+
+**Thoughts**: Yes, I've skipped one day on Jan 13. I just couldn't make it since I was too tired after the whole day working. So I think I'll break the rule abit. And I will be fined 5 extra days for any single day that I skip. So at least there would be some more flexibility now with trade off.
+
+
+**Link(s) to work**: [JavaScript30#11](https://github.com/eriknguyen/javascript30/tree/master/exercises/)
+
+
+### Day 11: Jan 15, 2017
+##### 
+
+**Today's Progress**: Completed Javascript30 Day 12: Very relaxing piece of code about key sequence detection
+
+**Thoughts**: But it's kinda cool trick...
+
+
+**Link(s) to work**: [JavaScript30#12](https://github.com/eriknguyen/javascript30/tree/master/exercises/)
