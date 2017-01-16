@@ -116,3 +116,14 @@ For day 10 of the series, I built the shift-holding check function for a checkbo
 
 
 **Link(s) to work**: [JavaScript30#12](https://github.com/eriknguyen/javascript30/tree/master/exercises/)
+
+
+### Day 12: Jan 16, 2017
+##### 
+
+**Today's Progress**: Completed Javascript30 Day 13: Slide in effect for page scrolling
+
+**Thoughts**: Practising some JS events and classList manipulation to create the sliding in effect for images when page scrolling. Nothing much except that for today's session, I welcome my new coding buddy and put him into action. Getting started with Mac OS and I'll try to get some benefit in knowledge (and money maybe lol) from this big investment!!!
+
+
+**Link(s) to work**: [JavaScript30#13](https://github.com/eriknguyen/javascript30/tree/master/exercises/)
