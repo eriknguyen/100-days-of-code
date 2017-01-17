@@ -127,3 +127,25 @@ For day 10 of the series, I built the shift-holding check function for a checkbo
 
 
 **Link(s) to work**: [JavaScript30#13](https://github.com/eriknguyen/javascript30/tree/master/exercises/)
+
+
+
+### Day 13: Jan 17, 2017
+##### 
+
+**Today's Progress**: JS30 Day 14 JS References vs Copying
+
+**Thoughts**: Well, today I'm learning something that is very basic and I continue to question myself on why I didn't know this before... That's really strange!
+
+So a quick recap: it's about references and copying. Copying is used in most of the simple type (string, numbers, boolean) where the assignment expression creates new variable and value. Array & object assignment use reference => the new array/object is just another reference to the same original one, everything that was changed from the newly created array/object will be reflected to the original one because they actually point to the same object. There are multiple ways to create a "actually new" (~copy) array/object which was listed below. Those must be noted.
+* Array: 
+	* `slide()`: `const arr2 = arr1.slide()` will copy arr2 to new arr1
+	* `concat()`: `const arr2 = [].concat(arr1)` create new arr2 and concat arr1 in
+	* ES6 Spread: `const arr2 = [...arr1]`
+	* `Array.from()`: `const arr2 = Array.from(arr1)`
+* Object:
+	* `Object.assign()`: `const obj2 = Object.assign({}, obj1, {/*update property here*/})`, this is only 1 level deep, can search for JS deep clone method (eg. lodash)
+	* JSON poor hack: `const obj2 = JSON.parse(JSON.stringify(obj1))` convert obj1 to string and parse string to obj2
+
+
+**Link(s) to work**: [JavaScript30#14](https://github.com/eriknguyen/javascript30/tree/master/exercises/)
