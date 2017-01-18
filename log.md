@@ -149,3 +149,21 @@ So a quick recap: it's about references and copying. Copying is used in most of 
 
 
 **Link(s) to work**: [JavaScript30#14](https://github.com/eriknguyen/javascript30/tree/master/exercises/)
+
+
+### Day 14: Jan 18, 2017
+##### 
+
+**Today's Progress**: JS30 Day 15 Local Storage and Event Delegation
+
+**Thoughts**:
+* Some things to remember:
+	* Use `Preserve Log` in Chrome DevTool to save log when page refresh
+	* Use default value when creating function as fallback for invalid input
+
+* Recap:
+	* Array `map()`
+	* Event delegation: listen for an event on a "parent" element then check if the event target is the correct element that we want
+
+
+**Link(s) to work**: [JavaScript30#14](https://github.com/eriknguyen/javascript30/tree/master/exercises/)
