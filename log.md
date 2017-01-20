@@ -167,3 +167,18 @@ So a quick recap: it's about references and copying. Copying is used in most of 
 
 
 **Link(s) to work**: [JavaScript30#14](https://github.com/eriknguyen/javascript30/tree/master/exercises/)
+
+
+### Day 15: Jan 17, 2017
+##### 
+
+**Today's Progress**: Setting up my dev env on my new coding buddy
+
+**Thoughts**:
+* I think this might take much longer with a Windows machine considering if I'm used to Mac OS:-?
+	* Setting sublime text (get it to run from terminal, install frequently used packages and their settings, UI settings)
+	* Install node, python3, pip3, virtualenv, MySQL (stuck here for very long) @@, gulp and other packages
+	* `git clone` some of the current project that I'll be working on
+
+
+**Link(s) to work**: [JavaScript30#15](https://github.com/eriknguyen/javascript30/tree/master/exercises/)
