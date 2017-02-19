@@ -36,8 +36,20 @@
 **Today's Progress**: Callback reading. Bucket list app with Python Flask.
 
 **Thoughts:** 
-1. Learn & re-learn alot of important cool stuffs about JavaScript callback functions.
-2. While creating bucket list app
-* 
+* Learn & re-learn alot of important cool stuffs about JavaScript callback functions
+* While creating bucket list app
+	* Now trying to talk with db without sqlalchemy
+	* Using db cursor, might help to understand more about db connection
+
+**Link to work:** [bucket-list](http://github.com/eriknguyen/bucket-list-flask.git)
+
+
+### Day 5: Feb 19, 2017 
+##### 
+
+**Today's Progress**: JS "this" reading. Continue with my bucket list.
+
+**Thoughts:** No thought yet, trying to see how can I practice using "this" since it would be extremely useful to use it properly.
+
 
 **Link to work:** [bucket-list](http://github.com/eriknguyen/bucket-list-flask.git)
