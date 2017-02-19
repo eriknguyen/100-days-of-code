@@ -28,3 +28,16 @@
 **Thoughts:** No thought... Just do. Tomorrow should be more jobs done on this. #TGIF
 
 **Link to work:** [bucket-list](http://github.com/eriknguyen/bucket-list-flask.git)
+
+
+### Day 4: Feb 18, 2017 
+##### 
+
+**Today's Progress**: Callback reading. Bucket list app with Python Flask.
+
+**Thoughts:** 
+1. Learn & re-learn alot of important cool stuffs about JavaScript callback functions.
+2. While creating bucket list app
+* 
+
+**Link to work:** [bucket-list](http://github.com/eriknguyen/bucket-list-flask.git)
