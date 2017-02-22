@@ -53,3 +53,25 @@
 
 
 **Link to work:** [bucket-list](http://github.com/eriknguyen/bucket-list-flask.git)
+
+
+### Day 6: Feb 20, 2017 
+##### 
+
+**Today's Progress**: Continue with my bucket list: add item and show them all
+
+**Thoughts:** Continue to develop the function for user to add item to their bucket list and show all of them in each user's homepage. No JS reading today....
+
+
+**Link to work:** [bucket-list](http://github.com/eriknguyen/bucket-list-flask.git)
+
+
+### Day 7: Feb 22, 2017 
+##### 
+
+**Today's Progress**: Continue with my bucket list.
+
+**Thoughts:** After 1 day break, I continue with my bucketlist after a very busy day. Basically it's just to add function for open item detail in a form, edit form and update detail to database. Again, no js reading done today.... Tomorrow will be another busy day!
+
+
+**Link to work:** [bucket-list](http://github.com/eriknguyen/bucket-list-flask.git)
