@@ -75,3 +75,25 @@
 
 
 **Link to work:** [bucket-list](http://github.com/eriknguyen/bucket-list-flask.git)
+
+
+### Day 7: Feb 23, 2017 
+##### 
+
+**Today's Progress**: Doing my front end form
+
+**Thoughts:** Long day with around 10+ hours of working so I'll cheat a little bit by taking those hours to my 8th day of 100 days of code
+
+
+**Link to work:** [bucket-list](http://github.com/eriknguyen/bucket-list-flask.git)
+
+
+### Day 8: Feb 24, 2017 
+##### 
+
+**Today's Progress**: Continue with my bucket list.
+
+**Thoughts:** #TGIF! I'm just adding the delete function to the bucket list. Seems like `delete` is the keyword or reserved word in JS so I cant call it until I rename it lol
+
+
+**Link to work:** [bucket-list](http://github.com/eriknguyen/bucket-list-flask.git)
