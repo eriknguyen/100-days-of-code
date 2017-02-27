@@ -97,3 +97,25 @@
 
 
 **Link to work:** [bucket-list](http://github.com/eriknguyen/bucket-list-flask.git)
+
+
+### Day 9: Feb 26, 2017 
+##### 
+
+**Today's Progress**: Continue with my bucket list.
+
+**Thoughts:** Not much thing done today....have to try harder
+
+
+**Link to work:** [bucket-list](http://github.com/eriknguyen/bucket-list-flask.git)
+
+
+### Day 10: Feb 27, 2017 
+##### 
+
+**Today's Progress**: Doing some job-related stuff
+
+**Thoughts:** Have to hack the rule of this challenge abit since this week I'm pushing for our product to go live. Still have a lot of things to do and I haven't got a very productive Monday. Sad :-/
+
+
+**Link to work:** No link yet
