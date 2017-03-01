@@ -130,3 +130,14 @@
 
 
 **Link to work:** No link yet
+
+
+### Day 12: Mar 01, 2017 
+##### 
+
+**Today's Progress**: Doing some job-related stuff
+
+**Thoughts:** 1 more day to go. I love this pressure :)
+
+
+**Link to work:** No link yet
