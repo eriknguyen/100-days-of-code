@@ -141,3 +141,103 @@
 
 
 **Link to work:** No link yet
+
+
+### Day 13: Mar 21, 2017 
+##### 
+
+**Today's Progress**: Back to record my daily coding with 100DaysOfCode, started with Udacity course
+
+**Thoughts:** I actually forgot, but I think I finished introduction to the course and introduction to the first project about building a movie trailer website. I actually get a free 35 days period for the nanodegree (1 month from my Github student pack + 7 days free trial from Udacity) and I chose the Full Stack Web Developer nanodegree and will try to finish as much as I can during these 35 days and see how it goes once the bill come lol.
+
+**Link to work:** No link yet
+
+
+### Day 14: Mar 22, 2017 
+##### 
+
+**Today's Progress**: Completed function lesson in project 1
+
+**Thoughts:** Just another recap, the pace is quite slow but I think there are still some stuffs worth noting
+
+**Link to work:** No link yet
+
+
+### Day 15: Mar 23, 2017 
+##### 
+
+**Today's Progress**: Completed next lesson about python classes
+
+**Thoughts:** I know I can use turtle to draw in python lol
+
+**Link to work:** No link yet
+
+
+### Day 16: Mar 24, 2017 
+##### 
+
+**Today's Progress**: Completed next lesson about python classes
+
+**Thoughts:** This is some thing interesting. Learn a new thing which is Twilio, an API for sending text message. Unfortunately, it doesn't work in Singapore.
+
+**Link to work:** No link yet
+
+
+### Day 17: Mar 25, 2017 
+##### 
+
+**Today's Progress**: Make a profanity checker and a simple movie trailer webpage by using python classes
+
+**Thoughts:** All concepts are familiar, but I actually never really read a documentation about implementing it in Python, so just nice...
+
+**Link to work:** No link yet
+
+
+### Day 18: Mar 26, 2017 
+##### 
+
+**Today's Progress**: Completed project 1 of FSDN
+
+**Thoughts:** Finished the last lesson about python and class in the first project
+
+**Link to work:** No link yet
+
+
+### Day 19: Mar 27, 2017 
+##### 
+
+**Today's Progress**: Project Multi-user Blog started
+
+**Thoughts:** Start the next project in the series, seems interesting. I'll be using Google Web Engine, Python to build a blogging platform. 
+
+**Link to work:** https://github.com/eriknguyen/35_nano.git
+
+
+### Day 20: Mar 28, 2017 
+##### 
+
+**Today's Progress**: Project Multi-user Blog - lesson about forms and input
+
+**Thoughts:** Next lesson in project 2: multi user blog. Recap about html form and form handling, I'm thinking if it's a waste of time when I keep learning the old stuff again and again while there are so many new things out there...
+
+**Link to work:** https://github.com/eriknguyen/35_nano.git
+
+
+### Day 21: Mar 29, 2017 
+##### 
+
+**Today's Progress**: Project Multi-user Blog - lesson about forms and input (37/50)
+
+**Thoughts:** Continue with a super long (but quite easy) lesson. And continue to see new JS libraries coming out (Moon, if you're wondering which I'm taling about. Moon is, based on the author, is similar to Preact for React but for Vue), some beta become stable released. But I decided to stick with my plan and try to do it as fast as possible.
+
+**Link to work:** https://github.com/eriknguyen/35_nano.git
+
+
+### Day 22: Mar 30, 2017 
+##### 
+
+**Today's Progress**: Project Multi-user Blog - lesson about forms and input
+
+**Thoughts:** Finally completed this lesson. I can move on now yeah. The target of finishing this project by this weekend is not impossible. At least I will try!
+
+**Link to work:** https://github.com/eriknguyen/35_nano.git
