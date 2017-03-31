@@ -241,3 +241,13 @@
 **Thoughts:** Finally completed this lesson. I can move on now yeah. The target of finishing this project by this weekend is not impossible. At least I will try!
 
 **Link to work:** https://github.com/eriknguyen/35_nano.git
+
+
+### Day 22: Mar 31, 2017 
+##### 
+
+**Today's Progress**: Project Multi-user Blog - lesson about template
+
+**Thoughts:** Guess what, it's Jinja2, my friend lol. Just touch a little bit of this because .... well, this's Friday isn't it
+
+**Link to work:** https://github.com/eriknguyen/35_nano.git
