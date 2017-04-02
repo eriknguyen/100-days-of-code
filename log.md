@@ -243,11 +243,21 @@
 **Link to work:** https://github.com/eriknguyen/35_nano.git
 
 
-### Day 22: Mar 31, 2017 
+### Day 23: Mar 31, 2017 
 ##### 
 
 **Today's Progress**: Project Multi-user Blog - lesson about template
 
 **Thoughts:** Guess what, it's Jinja2, my friend lol. Just touch a little bit of this because .... well, this's Friday isn't it
+
+**Link to work:** https://github.com/eriknguyen/35_nano.git
+
+
+### Day 24: Mar 31, 2017 
+##### 
+
+**Today's Progress**: Project Multi-user Blog - lesson about template (completed)
+
+**Thoughts:** Nothing much, completed a chapter about Jinja2 template for rendering html from Python server.
 
 **Link to work:** https://github.com/eriknguyen/35_nano.git
