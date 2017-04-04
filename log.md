@@ -253,11 +253,41 @@
 **Link to work:** https://github.com/eriknguyen/35_nano.git
 
 
-### Day 24: Mar 31, 2017 
+### Day 24: Apr 01, 2017 
 ##### 
 
-**Today's Progress**: Project Multi-user Blog - lesson about template (completed)
+**Today's Progress**: Project Multi-user Blog - lesson about template completed
 
-**Thoughts:** Nothing much, completed a chapter about Jinja2 template for rendering html from Python server.
+**Thoughts:** completed template lesson about Jinja2, I'm not sure how malicious data from form input might affect web security:-?
+
+**Link to work:** https://github.com/eriknguyen/35_nano.git
+
+
+### Day 25: Apr 02, 2017 
+##### 
+
+**Today's Progress**: Follow (but not completed) a short tutorial about slackbot and stdlib
+
+**Thoughts:** 
+
+**Link to work:** https://github.com/eriknguyen/35_nano.git
+
+
+### Day 26: Apr 03, 2017 
+##### 
+
+**Today's Progress**: Doing some job-related stuff
+
+**Thoughts:** Pushing on our revised ui
+
+**Link to work:** null
+
+
+### Day 27: Apr 04, 2017 
+##### 
+
+**Today's Progress**: Finished rot13 exercises
+
+**Thoughts:** Finally have some progress over the 35_nano after 2 days losing track
 
 **Link to work:** https://github.com/eriknguyen/35_nano.git
